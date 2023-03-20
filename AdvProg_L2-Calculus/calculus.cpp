@@ -33,7 +33,7 @@ double myCos(double x)
 double mySin(double x)
 {
     return 0.0;
-    return sin(x);
+    return sin(x) ;
 }
 
 

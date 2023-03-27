@@ -8,9 +8,6 @@ using std::endl;
 using std::stod;
 
 
-double mySin(double x);
-double myCos(double x);
-double mySqrt(double x);
 
 /***
     Args:

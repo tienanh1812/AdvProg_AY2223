@@ -58,7 +58,6 @@ string getAnswer(int number, int randomNumber) {
     if (number == randomNumber) 
         answer = "Congratulation! You win.";
     return answer;
-    return answer;
 }
 
 
